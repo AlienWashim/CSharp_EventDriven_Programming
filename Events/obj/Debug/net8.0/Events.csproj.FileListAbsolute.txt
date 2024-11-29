@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\bin\Debug\net8.0\Events.exe
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\bin\Debug\net8.0\Events.deps.json
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\bin\Debug\net8.0\Events.dll
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\bin\Debug\net8.0\Events.pdb
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.dll
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\refint\Events.dll
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.pdb
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Events\obj\Debug\net8.0\ref\Events.dll
