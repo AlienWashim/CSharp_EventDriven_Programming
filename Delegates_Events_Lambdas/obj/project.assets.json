@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Projects\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas.csproj",
-      "projectName": "Delegates_Events_Lambdas",
-      "projectPath": "D:\\Visual Studio Projects\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas\\Delegates.csproj",
+      "projectName": "Delegates",
+      "projectPath": "D:\\Visual Studio Projects\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas\\Delegates.csproj",
       "packagesPath": "C:\\Users\\BJIT\\.nuget\\packages\\",
       "outputPath": "D:\\Visual Studio Projects\\Delegates_Events_Lambdas\\Delegates_Events_Lambdas\\obj\\",
       "projectStyle": "PackageReference",
