@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net8.0\Delegates_Events_Lambdas.exe
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net8.0\Delegates_Events_Lambdas.deps.json
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net8.0\Delegates_Events_Lambdas.runtimeconfig.json
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net8.0\Delegates_Events_Lambdas.dll
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net8.0\Delegates_Events_Lambdas.pdb
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.AssemblyInfo.cs
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.dll
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\refint\Delegates_Events_Lambdas.dll
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.pdb
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\Delegates_Events_Lambdas.genruntimeconfig.cache
+D:\Visual Studio Projects\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net8.0\ref\Delegates_Events_Lambdas.dll
